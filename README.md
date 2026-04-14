@@ -27,9 +27,6 @@ This project focuses on optimizing the distribution of tutoring center brochures
 main/
 route_optimization_2opt_sa.ipynb
 
-data/
-(dataset)
-
 ## 📊 Results
 
 Optimized routes reduce total travel distance and improve delivery efficiency.
