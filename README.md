@@ -1,51 +1,39 @@
-# Brochure Distribution Route Optimization in Surabaya using 2-Opt and Simulated Annealing
+# 🚚 Brochure Distribution Route Optimization in Surabaya
 
-## Overview
+## 📌 Overview
 
-This project focuses on optimizing the distribution of tutoring center brochures across Surabaya. The goal is to minimize travel distance and improve delivery efficiency using metaheuristic optimization techniques.
+This project focuses on optimizing the distribution of tutoring center brochures across Surabaya.
 
-## Problem Context
+## 🎯 Objectives
 
-Distributing promotional brochures manually can lead to inefficient routes, increased operational cost, and longer delivery time. This study models the problem as a **vehicle routing optimization problem**.
-
-## Objectives
-
-* Optimize brochure distribution routes in Surabaya
+* Optimize brochure distribution routes
 * Minimize total travel distance
 * Improve operational efficiency
 
-## Methods
+## ⚙️ Methods
 
-* **2-Opt**: Improves route structure through local search
-* **Simulated Annealing**: Avoids local optima and enhances global search
+* 2-Opt
+* Simulated Annealing
 
-## Workflow
+## 🔄 Workflow
 
-1. Input location data (distribution points in Surabaya)
+1. Input location data
 2. Generate initial route
-3. Apply 2-opt optimization
-4. Apply simulated annealing refinement
-5. Evaluate optimized route
+3. Apply optimization
+4. Evaluate results
 
-## Use Case
-
-This model can be applied to:
-
-* Marketing distribution strategies
-* Logistics planning
-* Courier route optimization
-
-## Project Structure
+## 📂 Project Structure
 
 main/
 route_optimization_2opt_sa.ipynb
 
 data/
-(location dataset in Surabaya)
+(dataset)
 
-results/
-(optimized routes and evaluation)
+## 📊 Results
 
-## Author
+Optimized routes reduce total travel distance and improve delivery efficiency.
+
+## 👤 Author
 
 Lisa Mufida
